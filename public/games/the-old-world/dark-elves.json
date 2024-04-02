@@ -1349,7 +1349,7 @@
       "specialRules": {
         "name_en": "Close Order, Elven Reflexes, Frenzy, Hatred (High Elves), Horde, Loner, Murderous, Poisoned Attacks",
         "name_de": "Close Order, Elven Reflexes, Frenzy, Hatred (High Elves), Horde, Loner, Murderous, Poisoned Attacks",
-        "name_es": "Close Order, Elven Reflexes, Frenzy, Hatred (High Elves), Horde, Loner, Murderous, Poisoned Attacks",
+        "name_es": "Orden cerrado, Reflejos élficos, Furia asesina, Odio (Altos elfos), Horda, Solitario, Destreza asesina, Ataques envenenados",
         "name_fr": "Ordre serré, Réflexes elfiques, Frénésie, Haine (Hauts-Elfes), Horde, Solitaire, Meurtrier, Attaques empoisonée"
       },
       "notes": {
@@ -1454,7 +1454,7 @@
     {
       "name_en": "Witch Elves",
       "name_de": "Witch Elves",
-      "name_es": "Witch Elves",
+      "name_es": "Elfas brujas",
       "name_fr": "Furies",
       "id": "witch-elves",
       "points": 11,
@@ -1464,14 +1464,14 @@
         {
           "name_en": "Hag (champion)",
           "name_de": "Hag (champion)",
-          "name_es": "Hag (champion)",
+          "name_es": "Acólita (campeón)",
           "name_fr": "Doyenne (champion)",
           "points": 7
         },
         {
           "name_en": "Standard bearer",
           "name_de": "Standard bearer",
-          "name_es": "Standard bearer",
+          "name_es": "Portaestandarte",
           "name_fr": "Porte-étendard",
           "points": 7,
           "magic": {
@@ -1482,7 +1482,7 @@
         {
           "name_en": "Musician",
           "name_de": "Musician",
-          "name_es": "Musician",
+          "name_es": "Músico",
           "name_fr": "Musicien",
           "points": 7
         }
@@ -1491,7 +1491,7 @@
         {
           "name_en": "Two hand weapons",
           "name_de": "Two hand weapons",
-          "name_es": "Two hand weapons",
+          "name_es": "Dos armas de mano",
           "name_fr": "Deux armes de base",
           "points": 0,
           "perModel": true,
@@ -1506,7 +1506,7 @@
       "specialRules": {
         "name_en": "Close Order, Elven Reflexes, Frenzy, Hatred (High Elves), Horde, Loner, Murderous, Poisoned Attacks",
         "name_de": "Close Order, Elven Reflexes, Frenzy, Hatred (High Elves), Horde, Loner,  Murderous, Poisoned Attacks",
-        "name_es": "Close Order, Elven Reflexes, Frenzy, Hatred (High Elves), Horde, Loner,  Murderous, Poisoned Attacks",
+        "name_es": "Orden cerrado, Reflejos élficos, Furia asesina, Odio (Altos elfos), Horda, Solitario, Destreza asesina, Ataques envenenados",
         "name_fr": "Ordre serré, Réflexes Elfiques, Frénésie, Haine (Hauts-Elfes), Horde, Solitaire, Meurtrier, Attaques empoisonée"
       },
       "notes": {
@@ -1972,7 +1972,7 @@
       "specialRules": {
         "name_en": "Close Order, Extra Attacks (+remaining Wounds), Immune To Psychology, Large Target, Monster Handlers, Regeneration (5+), Stomp Attacks (D3), Terror",
         "name_de": "Close Order, Extra Attacks (+remaining Wounds), Immune To Psychology, Large Target, Monster Handlers, Regeneration (5+), Stomp Attacks (D3), Terror",
-        "name_es": "Close Order, Extra Attacks (+remaining Wounds), Immune To Psychology, Large Target, Monster Handlers, Regeneration (5+), Stomp Attacks (D3), Terror",
+        "name_es": "Orden cerrado, Ataques extra (+ las heridas restantes), Inmune a la psicología, Objetivo grande, Cuidadores, Regeneración (5+), Pisotones (D3), Terror",
         "name_fr": "Ordre serré, Attaque supplémentaire (+PV restants), Immunisé à la psychologie, Grande cible, Dresseurs De Monstres, Régénération (5+), Attaques de Piétinement (D3), Terreur"
       },
       "notes": {
@@ -2147,7 +2147,7 @@
     {
       "name_en": "War Hydra",
       "name_de": "War Hydra",
-      "name_es": "War Hydra",
+      "name_es": "Hidra de guerra",
       "name_fr": "Hydre de Guerre",
       "id": "war-hydra",
       "points": 200,
@@ -2156,7 +2156,7 @@
         {
           "name_en": "Wicked claws, Serrated maws, Fiery breath {dark elves}, hand weapons, Whips",
           "name_de": "Wicked claws, Serrated maws, Fiery breath",
-          "name_es": "Wicked claws, Serrated maws, Fiery breath",
+          "name_es": "Garras crueles, Dientes serrados, Aliento de fuego, Armas de mano, Látigos",
           "name_fr": "Griffes cruelles, Gueules dentelées, Souffle enflammé, Armes de base, Fouets",
           "points": 0,
           "perModel": true,
@@ -2181,13 +2181,13 @@
       "specialRules": {
         "name_en": "Close Order, Extra Attacks (+remaining Wounds), Immune To Psychology, Large Target, Monster Handlers, Regeneration (5+), Stomp Attacks (D3), Terror",
         "name_de": "Close Order, Extra Attacks (+remaining Wounds), Immune To Psychology, Large Target, Monster Handlers, Regeneration (5+), Stomp Attacks (D3), Terror",
-        "name_es": "Close Order, Extra Attacks (+remaining Wounds), Immune To Psychology, Large Target, Monster Handlers, Regeneration (5+), Stomp Attacks (D3), Terror",
+        "name_es": "Orden cerrado, Ataques extra (+ las heridas restantes), Inmune a la psicología, Objetivo grande, Cuidadores, Regeneración (5+), Pisotones (D3), Terror",
         "name_fr": "Ordre serré, Attaque suplémentaire (+PV restants), Immunisé à la psychologie, Grande cible, Dresseurs De Monstres, Régénération (5+), Attaques de Piétinement (D3), Terreur"
       },
       "notes": {
         "name_en": "0-1 Special choice War Hydra or Kharibdyss if your general is a High Beastmaster",
         "name_de": "0-1 if your general is a High Beastmaster",
-        "name_es": "0-1 if your general is a High Beastmaster",
+        "name_es": "0-1 Hidra de guerra o Kharibdyss si tu general es un Gran señor de las bestias",
         "name_fr": ""
       }
     },
@@ -2203,7 +2203,7 @@
         {
           "name_en": "Cavernous maw, Writhing tentacles {dark elves}, Hand weapons, Whips",
           "name_de": "Cavernous maw, Writhing tentacles, Hand weapons, Whips",
-          "name_es": "Cavernous maw, Writhing tentacles, Hand weapons, Whips",
+          "name_es": "Fauces cavernosas, Tentáculos serpenteantes, Armas de mano, Látigos",
           "name_fr": "Gueule caverneuse, Tentacule tortillonante, Armes de base et fouets",
           "points": 0,
           "perModel": true,
@@ -2228,13 +2228,13 @@
       "specialRules": {
         "name_en": "Abyssal Howl, Close Order, Immune To Psychology, Large Target, Monster Handlers, Stomp Attacks (D3+1), Terror",
         "name_de": "Abyssal Howl, Close Order, Immune To Psychology, Large Target, Monster Handlers, Stomp Attacks (D3+1), Terror",
-        "name_es": "Abyssal Howl, Close Order, Immune To Psychology, Large Target, Monster Handlers, Stomp Attacks (D3+1), Terror",
+        "name_es": "Aullido abisal, Orden cerrado, Inmune a la psicología, Objetivo grande, Cuidadores, Pisotones (D3+1), Terror",
         "name_fr": "Cri abyssale, Ordre serré, Immunisé à la psychologie, Grande cible, Dresseurs De Monstres, Attaques de Piétinement (D3+1), Terreur"
       },
       "notes": {
         "name_en": "0-1 Special choice War Hydra or Kharibdyss if your general is a High Beastmaster",
         "name_de": "0-1 if your general is a High Beastmaster",
-        "name_es": "0-1 if your general is a High Beastmaster",
+        "name_es": "0-1 Hidra de guerra o Kharibdyss si tu general es un Gran señor de las bestias",
         "name_fr": ""
       }
     },
